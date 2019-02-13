@@ -201,7 +201,11 @@ header .social li:first-child{
 	position: relative;
 	width: 100%;
 	height: 80vh;
+<<<<<<< HEAD
 	/* background: url('../img/hero.jpg') no-repeat fixed center center; */
+=======
+/* 	background: url('../img/hero.jpg') no-repeat fixed center center; */
+>>>>>>> f8dbf3611102a2a5037dfc5ba57ccadf2fe9a647
 	background-size: cover;
 }
 
