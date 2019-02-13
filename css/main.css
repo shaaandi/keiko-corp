@@ -208,7 +208,7 @@ header .social li:first-child{
 /* media queries for different sizes */
 @media screen and (min-width: 900px){
 	.hero{
-		background: url('../img/hero_large.webp') no-repeat fixed center center;
+		background: url('../img/hero.jpg') no-repeat fixed center center;
 	}
 }
 
