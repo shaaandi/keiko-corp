@@ -212,11 +212,11 @@ header .social li:first-child{
 	}
 }
 
-@media screen and (max-width : 900px){
+/* @media screen and (max-width : 900px){
 	.hero{
 		background: url('../img/hero_medium.webp') no-repeat fixed center center;
 	}
-}
+} */
 
 @media screen and (max-width : 500px){
 	.hero{
