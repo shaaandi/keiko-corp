@@ -202,13 +202,14 @@ header .social li:first-child{
 	width: 100%;
 	height: 80vh;
 /* 	background: url('../img/hero.jpg') no-repeat fixed center center; */
-	background-size: cover;
+	
 }
 
 /* media queries for different sizes */
 @media screen and (min-width: 900px){
 	.hero{
 		background: url('../img/hero.jpg') no-repeat fixed center center;
+		background-size: cover;
 	}
 }
 
@@ -221,6 +222,7 @@ header .social li:first-child{
 @media screen and (max-width : 500px){
 	.hero{
 		background: url('../img/hero_small.webp') no-repeat fixed center center;
+		background-size: cover;
 	}
 }
 
